@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+
+body{
+  background-color: black;
+}
+
+.cards{
+  background-color: rgb(19, 18, 18);
+}
+
+.header{
+  background-color: #151618;
+}
